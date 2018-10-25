@@ -1,2 +1,2 @@
-#Markdown Assignment
-##Jared Jones--IMED 2402
+# Markdown Assignment
+## Jared Jones--IMED 2402
